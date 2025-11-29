@@ -83,7 +83,6 @@
                 </div>
             </div>
         </a>
-
         {{-- ARMADA --}}
         <a href="{{ route('admin.fleets.index') }}"
            class="group bg-slate-800/60 p-5 rounded-xl border border-slate-700 
